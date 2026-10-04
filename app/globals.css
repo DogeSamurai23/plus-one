@@ -250,8 +250,12 @@ main > .home { flex: 1; }
   .cols-2, .cols-3 { grid-template-columns: 1fr; }
   .board-end { grid-column: auto; }
   .home > .panel { border-left: 0; border-top: 1px solid var(--line); }
-  .nav { grid-template-columns: 1fr auto; padding: 14px 16px; }
-  .nav nav { display: none; }
+  /* phone: logo and button on top, People and Rankings as a full-width row of tap targets under them */
+  .nav { grid-template-columns: 1fr auto; padding: 14px 16px 0; row-gap: 12px; }
+  .nav nav { grid-column: 1 / -1; grid-row: 2; gap: 0; margin: 0 -16px; border-top: 1px solid var(--line); }
+  .nav nav a { flex: 1; padding: 13px 0; text-align: center; }
+  .nav nav a + a { border-left: 1px solid var(--line); }
+  .nav > .btn { padding: 5px 16px 4px; font-size: 0.95rem; }
   .panel { padding: 42px 16px 26px; }
   .panel::before { left: 16px; }
   .contacts, .notes-grid { grid-template-columns: 1fr; }
