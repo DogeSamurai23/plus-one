@@ -1,0 +1,46 @@
+{
+ "a": "aliabdaal",
+ "b": "kevinolearytv",
+ "turns": [
+  {
+   "who": "aliabdaal",
+   "text": "Ali loves a structured quarterly reset, so let's look at this date as a time-blocking exercise. If Kevin treats everything like an asset, how do they handle the breakdown of a 168-hour week into exact tokens?"
+  },
+  {
+   "who": "kevinolearytv",
+   "text": "Kevin does not waste time blocking hours for feel-good productivity exercises. Kevin measures life in compounding returns, exits, and market indicators across 18 seasons of Shark Tank and multiple boardrooms. \n\nDoes Ali have actual equity value, or are they just selling time-management courses?"
+  },
+  {
+   "who": "aliabdaal",
+   "text": "Ali is building a media empire, not just selling courses. They value compounding growth, but Ali optimizes for \"feel-good\" alignment, not just cold capital. If Kevin views people strictly as assets, where does the space for genuine, non-transactional personal growth exist? Comment RESET if you think that worldview is too narrow for a life-partner."
+  },
+  {
+   "who": "kevinolearytv",
+   "text": "Kevin views friendship as a variable that cannot replace execution. If Ali is prioritizing feelings over cold, hard margins, Kevin will lose interest before the first bottle of wine is finished. Is Ali prepared to replace that \"feel-good\" alignment with a strategy for actual market dominance, or is this entire venture a net loss?"
+  },
+  {
+   "who": "aliabdaal",
+   "text": "Ali is a New York Times bestselling author who treats life as an optimization problem, but cold execution without emotional resonance is a net loss for them. Ali believes life is not something that will ever be figured out through sheer financial dominance alone. Therefore, Kevin is a total mismatch for Ali's world."
+  },
+  {
+   "who": "kevinolearytv",
+   "text": "If Ali is seeking emotional resonance over fiscal dominance, the deal is dead. Kevin requires a partner obsessed with yield, not a philosopher seeking to optimize feelings. This is a net loss for both sides. I am moving on to the next prospect who understands the value of an exit strategy."
+  }
+ ],
+ "debrief": {
+  "aliabdaal": {
+   "clicked": "Both sides appreciate systematic efficiency and clear metrics for success.",
+   "worried": "Kevin's obsession with cold capital completely clashes with Ali's need for feel-good personal growth and emotional resonance.",
+   "verdict": "Hard pass. Save your time blocks.",
+   "score": 10,
+   "secondDate": false
+  },
+  "kevinolearytv": {
+   "clicked": "Ali understands the concept of compounding growth, which aligns with Kevin's focus on long-term asset accumulation.",
+   "worried": "Ali prioritizes emotional resonance and feel-good productivity, which Kevin views as a complete lack of fiscal discipline.",
+   "verdict": "Hard pass, Ali is a net loss who prioritizes feelings over cold, hard margins.",
+   "score": 15,
+   "secondDate": false
+  }
+ }
+}

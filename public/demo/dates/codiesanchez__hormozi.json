@@ -1,0 +1,46 @@
+{
+ "a": "codiesanchez",
+ "b": "hormozi",
+ "turns": [
+  {
+   "who": "codiesanchez",
+   "text": "Codie built an empire by buying laundromats and car washes, not by playing nice. If Alex views romance as a strategic alliance, that is a start, but Codie has zero patience for fluff or hesitation. Does Alex prioritize the bottom line over ego, or is there actually space for a partnership that moves the needle?"
+  },
+  {
+   "who": "hormozi",
+   "text": "Alex views ego as an operational leak that kills margins. If Codie spends time buying boring businesses, that fits the thesis of ruthless execution over idle thinking. \n\nTell me, what are Codie's metrics for a 10x ROI on a strategic alliance?"
+  },
+  {
+   "who": "codiesanchez",
+   "text": "Codie measures return on a partnership through relentless output and shared scale, not soft sentiment. With a new book to push and multi-entity holding companies to run, Codie needs someone who matches that exact level of grit. \n\nDoes Alex actually pull their own weight in the trenches, or do they just talk about leverage on a podcast?"
+  },
+  {
+   "who": "hormozi",
+   "text": "Alex spends fourteen hours a day in the studio or the boardroom because business is the only game worth playing. We don't talk about leverage; we build the systems that make it inevitable. Does Codie want a partner who builds alongside them, or is this just another media collaboration for the feed?"
+  },
+  {
+   "who": "codiesanchez",
+   "text": "Codie respects fourteen-hour days and zero excuses, but life is not just a content engine for the feed. If Alex treats the alliance like a relentless masterclass in execution rather than a PR stunt, there is a deal to be made here. Let us see if Alex can keep up."
+  },
+  {
+   "who": "hormozi",
+   "text": "Alex has no interest in PR stunts that don't compound. If Codie is serious about execution, they should drop the book pitch and meet Alex at the rack. If they can move weight and move the needle simultaneously, we have a strategic fit. Otherwise, it is just noise."
+  }
+ ],
+ "debrief": {
+  "codiesanchez": {
+   "clicked": "Alex matches Codie on intensity and the refusal to treat business as anything less than a high-stakes, long-term game.",
+   "worried": "The lack of partition between their public personas and personal lives risks turning a partnership into a competitive, exhausting performance review.",
+   "verdict": "Meet them, but keep your guard up; they are a mirror, not a soft place to land.",
+   "score": 85,
+   "secondDate": true
+  },
+  "hormozi": {
+   "clicked": "Codie values ruthless execution and shared scale, which matches the core thesis of treating business and romance as long-term strategic alliances.",
+   "worried": "Codie operates multiple holding companies and a book tour, raising the friction point of whether the entire relationship will become a public media collaboration.",
+   "verdict": "Do not meet. Too much brand overlap and media noise.",
+   "score": 45,
+   "secondDate": false
+  }
+ }
+}

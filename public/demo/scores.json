@@ -1,0 +1,818 @@
+{
+ "aliabdaal__ankurwarikoo": {
+  "aliabdaal": {
+   "score": 15,
+   "verdict": "Do not meet; Ankur wants a business co-founder, not a partner who values magic and performance.",
+   "secondDate": false
+  },
+  "ankurwarikoo": {
+   "score": 25,
+   "verdict": "Do not pursue this; Ali is an entertainer, and Ankur requires a disciplined co-founder for life.",
+   "secondDate": false
+  }
+ },
+ "aliabdaal__ariannahuff": {
+  "ariannahuff": {
+   "score": 35,
+   "verdict": "Skip this; Ali is too tethered to systems to truly embrace the mystery of life with you.",
+   "secondDate": false
+  },
+  "aliabdaal": {
+   "score": 35,
+   "verdict": "Do not meet. Arianna treats structure as a flaw.",
+   "secondDate": false
+  }
+ },
+ "aliabdaal__barbaracorcoran": {
+  "aliabdaal": {
+   "score": 15,
+   "verdict": "Hard pass. Too much friction between systems and chaos.",
+   "secondDate": false
+  },
+  "barbaracorcoran": {
+   "score": 15,
+   "verdict": "Hard pass, Ali is far too rigid and would bore Barbara to tears with all that structure.",
+   "secondDate": false
+  }
+ },
+ "aliabdaal__codiesanchez": {
+  "aliabdaal": {
+   "score": 15,
+   "verdict": "Do not meet; Codie's relentless hustle will suffocate your need for balanced, feel-good productivity.",
+   "secondDate": false
+  },
+  "codiesanchez": {
+   "score": 15,
+   "verdict": "Hard pass. Skip Ali and stay on the grind.",
+   "secondDate": false
+  }
+ },
+ "aliabdaal__garyvee": {
+  "aliabdaal": {
+   "score": 15,
+   "verdict": "Comment PASS. The lack of structured systems would drive Ali crazy.",
+   "secondDate": false
+  },
+  "garyvee": {
+   "score": 15,
+   "verdict": "Pass, Ali needs calm systems and Gary needs loud momentum.",
+   "secondDate": false
+  }
+ },
+ "aliabdaal__hormozi": {
+  "hormozi": {
+   "score": 35,
+   "verdict": "Pass. Too much focus on feeling good instead of ruthless execution.",
+   "secondDate": false
+  },
+  "aliabdaal": {
+   "score": 15,
+   "verdict": "Hard pass. Alex lacks the warmth Ali needs.",
+   "secondDate": false
+  }
+ },
+ "aliabdaal__jayshetty": {
+  "jayshetty": {
+   "score": 25,
+   "verdict": "Do not meet them. Their systems will clash with your purpose.",
+   "secondDate": false
+  },
+  "aliabdaal": {
+   "score": 15,
+   "verdict": "Do not meet; your systems-based approach and their spontaneity are fundamentally incompatible.",
+   "secondDate": false
+  }
+ },
+ "aliabdaal__kevinolearytv": {
+  "aliabdaal": {
+   "score": 10,
+   "verdict": "Hard pass. Save your time blocks.",
+   "secondDate": false
+  },
+  "kevinolearytv": {
+   "score": 15,
+   "verdict": "Hard pass, Ali is a net loss who prioritizes feelings over cold, hard margins.",
+   "secondDate": false
+  }
+ },
+ "aliabdaal__masoomminawala": {
+  "aliabdaal": {
+   "score": 25,
+   "verdict": "Hard pass, Ali needs a structured partner not creative chaos.",
+   "secondDate": false
+  },
+  "masoomminawala": {
+   "score": 25,
+   "verdict": "Do not meet them, the rigid productivity frameworks will clash entirely.",
+   "secondDate": false
+  }
+ },
+ "aliabdaal__mcuban": {
+  "mcuban": {
+   "score": 15,
+   "verdict": "Save your time. Ali's optimization spreadsheets will drive you nuts.",
+   "secondDate": false
+  },
+  "aliabdaal": {
+   "score": 15,
+   "verdict": "Do not meet; the fundamental friction between structured optimization and volatile chaos is too high.",
+   "secondDate": false
+  }
+ },
+ "aliabdaal__melindafrenchgates": {
+  "aliabdaal": {
+   "score": 15,
+   "verdict": "Do not meet. The friction on systems thinking is a complete dealbreaker.",
+   "secondDate": false
+  },
+  "melindafrenchgates": {
+   "score": 15,
+   "verdict": "Avoid; Ali's obsession with productivity metrics is incompatible with Melinda's systemic approach to social progress.",
+   "secondDate": false
+  }
+ },
+ "aliabdaal__melrobbins": {
+  "melrobbins": {
+   "score": 35,
+   "verdict": "Skip it. You do not need a second productivity guru in the house.",
+   "secondDate": false
+  },
+  "aliabdaal": {
+   "score": 15,
+   "verdict": "Do not pursue; the conflicting operating systems would lead to total burnout.",
+   "secondDate": false
+  }
+ },
+ "aliabdaal__nikhilkamathcio": {
+  "nikhilkamathcio": {
+   "score": 25,
+   "verdict": "Skip it, they would turn a sunset into a performance metric.",
+   "secondDate": false
+  },
+  "aliabdaal": {
+   "score": 30,
+   "verdict": "Skip this one, Ali. They treat structure as noise and would find your workshops maddening.",
+   "secondDate": false
+  }
+ },
+ "aliabdaal__rajshamani": {
+  "aliabdaal": {
+   "score": 15,
+   "verdict": "Do not meet; Raj's inability to switch off would be a major system failure for you.",
+   "secondDate": false
+  },
+  "rajshamani": {
+   "score": 15,
+   "verdict": "Skip it. They want optimization; Raj wants world-scale domination.",
+   "secondDate": false
+  }
+ },
+ "aliabdaal__reidhoffman": {
+  "reidhoffman": {
+   "score": 35,
+   "verdict": "Do not meet. The operational scopes are fundamentally mismatched.",
+   "secondDate": false
+  },
+  "aliabdaal": {
+   "score": 15,
+   "verdict": "Do not meet; Reid's obsession with global scale would suffocate your focus on individual, actionable productivity.",
+   "secondDate": false
+  }
+ },
+ "aliabdaal__richardbranson": {
+  "aliabdaal": {
+   "score": 15,
+   "verdict": "Do not meet. Too much friction.",
+   "secondDate": false
+  },
+  "richardbranson": {
+   "score": 10,
+   "verdict": "Do not meet them; Ali would find your lack of structure utterly insufferable.",
+   "secondDate": false
+  }
+ },
+ "aliabdaal__sarablakely": {
+  "aliabdaal": {
+   "score": 25,
+   "verdict": "Do not meet; the friction between Ali's structured systems and Sara's chaotic spontaneity is too high.",
+   "secondDate": false
+  },
+  "sarablakely": {
+   "score": 15,
+   "verdict": "Do not meet. Ali wants optimization workshops, not fun household antics.",
+   "secondDate": false
+  }
+ },
+ "aliabdaal__simonsinek": {
+  "simonsinek": {
+   "score": 25,
+   "verdict": "Skip this one; Ali's need to optimize every heartbeat will eventually suffocate Simon's desire for messy, human connection.",
+   "secondDate": false
+  },
+  "aliabdaal": {
+   "score": 35,
+   "verdict": "Skip this one, Simon refuses to optimize the schedule.",
+   "secondDate": false
+  }
+ },
+ "aliabdaal__steven": {
+  "aliabdaal": {
+   "score": 25,
+   "verdict": "Hard pass, Steven is far too chaotic for your structured routines.",
+   "secondDate": false
+  },
+  "steven": {
+   "score": 15,
+   "verdict": "Total mismatch of lifestyle and structure, skip a meeting.",
+   "secondDate": false
+  }
+ },
+ "aliabdaal__thesharkdaymond": {
+  "thesharkdaymond": {
+   "score": 25,
+   "verdict": "Pass on Ali. Too much focus on feeling good, not enough hustle.",
+   "secondDate": false
+  },
+  "aliabdaal": {
+   "score": 15,
+   "verdict": "Do not meet; the fundamental approach to life and business is completely incompatible.",
+   "secondDate": false
+  }
+ },
+ "aliabdaal__thisisbillgates": {
+  "thisisbillgates": {
+   "score": 25,
+   "verdict": "Do not pursue; Ali requires systematic optimization that conflicts with your independent intellectual process.",
+   "secondDate": false
+  },
+  "aliabdaal": {
+   "score": 25,
+   "verdict": "Hard pass. Ali needs a public-facing collaborator, not a solitary intellectual.",
+   "secondDate": false
+  }
+ },
+ "aliabdaal__timferriss": {
+  "timferriss": {
+   "score": 35,
+   "verdict": "Skip this one. Mismatched optimization philosophies.",
+   "secondDate": false
+  },
+  "aliabdaal": {
+   "score": 35,
+   "verdict": "Skip this optimization machine. Comment RESET.",
+   "secondDate": false
+  }
+ },
+ "aliabdaal__tonyrobbins": {
+  "aliabdaal": {
+   "score": 15,
+   "verdict": "Hard pass, Ali; the scale of their ego would completely disrupt your productivity systems.",
+   "secondDate": false
+  },
+  "tonyrobbins": {
+   "score": 15,
+   "verdict": "Total mismatch; do not bother with a second date.",
+   "secondDate": false
+  }
+ },
+ "aliabdaal__vancityreynolds": {
+  "vancityreynolds": {
+   "score": 12,
+   "verdict": "Hard pass, unless Ryan fancies a mandatory Notion template for every coastal walk.",
+   "secondDate": false
+  },
+  "aliabdaal": {
+   "score": 15,
+   "verdict": "Skip this one; Ryan's aversion to structure would turn your life into a friction-filled nightmare.",
+   "secondDate": false
+  }
+ },
+ "ankurwarikoo__ariannahuff": {
+  "ariannahuff": {
+   "score": 15,
+   "verdict": "Do not meet. They want a co-author for a boot camp, not a partner.",
+   "secondDate": false
+  },
+  "ankurwarikoo": {
+   "score": 15,
+   "verdict": "Do not pursue; the philosophical misalignment on daily structure makes long-term harmony impossible.",
+   "secondDate": false
+  }
+ },
+ "ankurwarikoo__barbaracorcoran": {
+  "ankurwarikoo": {
+   "score": 15,
+   "verdict": "Do not pursue; the difference in core operating philosophies will only lead to mutual exhaustion.",
+   "secondDate": false
+  },
+  "barbaracorcoran": {
+   "score": 15,
+   "verdict": "Hard pass. Keep your spreadsheets and stay home.",
+   "secondDate": false
+  }
+ },
+ "ankurwarikoo__codiesanchez": {
+  "ankurwarikoo": {
+   "score": 15,
+   "verdict": "Skip this partnership entirely; the friction between reflection and raw leverage is fatal.",
+   "secondDate": false
+  },
+  "codiesanchez": {
+   "score": 25,
+   "verdict": "Hard pass, Ankur is too focused on theory while Codie is busy scaling empires.",
+   "secondDate": false
+  }
+ },
+ "ankurwarikoo__garyvee": {
+  "ankurwarikoo": {
+   "score": 15,
+   "verdict": "Do not meet. The noise level guarantees friction.",
+   "secondDate": false
+  },
+  "garyvee": {
+   "score": 12,
+   "verdict": "Total mismatch. Keep the spreadsheets.",
+   "secondDate": false
+  }
+ },
+ "ankurwarikoo__hormozi": {
+  "hormozi": {
+   "score": 25,
+   "verdict": "Pass. The metrics do not match.",
+   "secondDate": false
+  },
+  "ankurwarikoo": {
+   "score": 25,
+   "verdict": "Pass. The strategic frameworks are entirely misaligned.",
+   "secondDate": false
+  }
+ },
+ "ankurwarikoo__jayshetty": {
+  "jayshetty": {
+   "score": 35,
+   "verdict": "Do not meet. Too much friction with your need for quiet harmony.",
+   "secondDate": false
+  },
+  "ankurwarikoo": {
+   "score": 25,
+   "verdict": "Do not pursue; Jay values abstract harmony while Ankur requires a pragmatic co-founder for daily execution.",
+   "secondDate": false
+  }
+ },
+ "ankurwarikoo__kevinolearytv": {
+  "ankurwarikoo": {
+   "score": 10,
+   "verdict": "Do not meet. They view life as a ledger, not a masterclass.",
+   "secondDate": false
+  },
+  "kevinolearytv": {
+   "score": 15,
+   "verdict": "Do not meet. Ankur is a lifestyle coach, not a high-yield asset.",
+   "secondDate": false
+  }
+ },
+ "ankurwarikoo__masoomminawala": {
+  "ankurwarikoo": {
+   "score": 15,
+   "verdict": "Do not meet them.",
+   "secondDate": false
+  },
+  "masoomminawala": {
+   "score": 10,
+   "verdict": "Do not meet; there is no alignment between your ambition and their rigid, unglamorous routine.",
+   "secondDate": false
+  }
+ },
+ "ankurwarikoo__mcuban": {
+  "mcuban": {
+   "score": 35,
+   "verdict": "Skip it. Too much seminar energy and zero practical alignment.",
+   "secondDate": false
+  },
+  "ankurwarikoo": {
+   "score": 25,
+   "verdict": "Do not meet; Mark is a competitor, not a partner for your shared reality.",
+   "secondDate": false
+  }
+ },
+ "ankurwarikoo__melindafrenchgates": {
+  "ankurwarikoo": {
+   "score": 15,
+   "verdict": "Do not pursue; the conflicting philosophies on life management would lead to immediate exhaustion for both.",
+   "secondDate": false
+  },
+  "melindafrenchgates": {
+   "score": 10,
+   "verdict": "Do not meet. They would exhaust one another within a week.",
+   "secondDate": false
+  }
+ },
+ "ankurwarikoo__melrobbins": {
+  "melrobbins": {
+   "score": 30,
+   "verdict": "Skip this one, they need a seminar partner, not a survivor.",
+   "secondDate": false
+  },
+  "ankurwarikoo": {
+   "score": 15,
+   "verdict": "Do not pursue; Mel's chaotic, loud reality is fundamentally incompatible with your disciplined, structured life.",
+   "secondDate": false
+  }
+ },
+ "ankurwarikoo__nikhilkamathcio": {
+  "nikhilkamathcio": {
+   "score": 15,
+   "verdict": "Hard pass, the optimization loop would drive Nikhil mad.",
+   "secondDate": false
+  },
+  "ankurwarikoo": {
+   "score": 25,
+   "verdict": "Do not pursue; the fundamental difference in lifestyle and need for silence makes this a non-starter.",
+   "secondDate": false
+  }
+ },
+ "ankurwarikoo__rajshamani": {
+  "ankurwarikoo": {
+   "score": 15,
+   "verdict": "Do not meet; Raj's obsession with scale at the expense of peace is fundamentally incompatible with your values.",
+   "secondDate": false
+  },
+  "rajshamani": {
+   "score": 15,
+   "verdict": "Hard pass. Raj cannot trade ambition for peace.",
+   "secondDate": false
+  }
+ },
+ "ankurwarikoo__reidhoffman": {
+  "reidhoffman": {
+   "score": 15,
+   "verdict": "Do not pursue; the misalignment between systemic disruption and individual routine is too great.",
+   "secondDate": false
+  },
+  "ankurwarikoo": {
+   "score": 15,
+   "verdict": "Do not meet. A structural mismatch on travel, scale, and focus.",
+   "secondDate": false
+  }
+ },
+ "ankurwarikoo__richardbranson": {
+  "ankurwarikoo": {
+   "score": 15,
+   "verdict": "Do not pursue; the fundamental philosophies regarding structure and growth are irreconcilable.",
+   "secondDate": false
+  },
+  "richardbranson": {
+   "score": 15,
+   "verdict": "Do not bother, Richard; this one is far too fond of cages to ever enjoy the breeze.",
+   "secondDate": false
+  }
+ },
+ "ankurwarikoo__sarablakely": {
+  "ankurwarikoo": {
+   "score": 10,
+   "verdict": "Skip it. The lifestyle and operational models are entirely incompatible.",
+   "secondDate": false
+  },
+  "sarablakely": {
+   "score": 10,
+   "verdict": "Hard pass, Sara; this person is far too rigid and mobile for your high-energy home life.",
+   "secondDate": false
+  }
+ },
+ "ankurwarikoo__simonsinek": {
+  "simonsinek": {
+   "score": 25,
+   "verdict": "Do not pursue this; the structural rigidity of their routine will suffocate your need for meaningful connection.",
+   "secondDate": false
+  },
+  "ankurwarikoo": {
+   "score": 25,
+   "verdict": "Do not meet; your frameworks for existence are fundamentally incompatible.",
+   "secondDate": false
+  }
+ },
+ "ankurwarikoo__steven": {
+  "ankurwarikoo": {
+   "score": 15,
+   "verdict": "Do not pursue; this person is a distraction from your established, essential routine.",
+   "secondDate": false
+  },
+  "steven": {
+   "score": 15,
+   "verdict": "Skip this one; their core definitions of a meaningful life are fundamentally incompatible.",
+   "secondDate": false
+  }
+ },
+ "ankurwarikoo__thesharkdaymond": {
+  "thesharkdaymond": {
+   "score": 15,
+   "verdict": "Hard pass, Ankur's focus on seclusion and independence is a total non-starter for Daymond's high-stakes lifestyle.",
+   "secondDate": false
+  },
+  "ankurwarikoo": {
+   "score": 15,
+   "verdict": "Do not meet them, the fundamental philosophies clash entirely.",
+   "secondDate": false
+  }
+ },
+ "ankurwarikoo__thisisbillgates": {
+  "thisisbillgates": {
+   "score": 15,
+   "verdict": "Do not meet. Ankur offers life-coaching rather than the global problem-solving Bill requires.",
+   "secondDate": false
+  },
+  "ankurwarikoo": {
+   "score": 15,
+   "verdict": "Do not pursue; the fundamental difference in daily operational philosophy makes this partnership an impossible friction.",
+   "secondDate": false
+  }
+ },
+ "ankurwarikoo__timferriss": {
+  "timferriss": {
+   "score": 15,
+   "verdict": "Do not meet; Ankur seeks a co-founder, while Tim requires a laboratory for individual inquiry.",
+   "secondDate": false
+  },
+  "ankurwarikoo": {
+   "score": 15,
+   "verdict": "Do not pursue; Tim prioritizes individual sovereignty over the shared, disciplined foundation you require.",
+   "secondDate": false
+  }
+ },
+ "ankurwarikoo__vancityreynolds": {
+  "vancityreynolds": {
+   "score": 5,
+   "verdict": "Hard pass, unless you want your life turned into a spreadsheet.",
+   "secondDate": false
+  },
+  "ankurwarikoo": {
+   "score": 15,
+   "verdict": "Do not pursue; Ryan is a distraction that fundamentally opposes your commitment to boring, consistent progress.",
+   "secondDate": false
+  }
+ },
+ "ariannahuff__hormozi": {
+  "ariannahuff": {
+   "score": 5,
+   "verdict": "Do not meet. Their relentless hustle is the exact antithesis of your life's work.",
+   "secondDate": false
+  },
+  "hormozi": {
+   "score": 15,
+   "verdict": "Total mismatch; do not pursue, as their operating systems are fundamentally incompatible.",
+   "secondDate": false
+  }
+ },
+ "barbaracorcoran__hormozi": {
+  "barbaracorcoran": {
+   "score": 5,
+   "verdict": "Save your time, Barbara. He is a total dud.",
+   "secondDate": false
+  },
+  "hormozi": {
+   "score": 15,
+   "verdict": "Skip this. Barbara is a force of nature, but she lacks the operational discipline Alex requires.",
+   "secondDate": false
+  }
+ },
+ "codiesanchez__hormozi": {
+  "codiesanchez": {
+   "score": 85,
+   "verdict": "Meet them, but keep your guard up; they are a mirror, not a soft place to land.",
+   "secondDate": true
+  },
+  "hormozi": {
+   "score": 45,
+   "verdict": "Do not meet. Too much brand overlap and media noise.",
+   "secondDate": false
+  }
+ },
+ "garyvee__hormozi": {
+  "garyvee": {
+   "score": 10,
+   "verdict": "Hard pass, Gary. Alex is a sterile machine and you need someone who actually feels the game.",
+   "secondDate": false
+  },
+  "hormozi": {
+   "score": 5,
+   "verdict": "Hard pass. Zero alignment on execution or metrics.",
+   "secondDate": false
+  }
+ },
+ "hormozi__jayshetty": {
+  "hormozi": {
+   "score": 15,
+   "verdict": "Hard pass. Jay is too focused on feelings and will clash with Alex's intensity.",
+   "secondDate": false
+  },
+  "jayshetty": {
+   "score": 10,
+   "verdict": "Hard pass, absolute mismatch in operational values.",
+   "secondDate": false
+  }
+ },
+ "hormozi__kevinolearytv": {
+  "kevinolearytv": {
+   "score": 35,
+   "verdict": "Pass on this partnership; Alex is too independent for Kevin's rigid, transactional requirements.",
+   "secondDate": false
+  },
+  "hormozi": {
+   "score": 30,
+   "verdict": "Hard pass. The metrics do not align.",
+   "secondDate": false
+  }
+ },
+ "hormozi__masoomminawala": {
+  "masoomminawala": {
+   "score": 15,
+   "verdict": "Skip this one entirely.",
+   "secondDate": false
+  },
+  "hormozi": {
+   "score": 25,
+   "verdict": "Do not meet. Their focus on luxury optics will clash with your requirement for ruthless, utility-based execution.",
+   "secondDate": false
+  }
+ },
+ "hormozi__mcuban": {
+  "hormozi": {
+   "score": 85,
+   "verdict": "Meet them, but expect a power struggle from the first rep.",
+   "secondDate": true
+  },
+  "mcuban": {
+   "score": 65,
+   "verdict": "Skip the calendar invite and see if Alex can actually lift heavy iron.",
+   "secondDate": true
+  }
+ },
+ "hormozi__melindafrenchgates": {
+  "melindafrenchgates": {
+   "score": 15,
+   "verdict": "Do not meet. The operating styles are fundamentally misaligned.",
+   "secondDate": false
+  },
+  "hormozi": {
+   "score": 15,
+   "verdict": "Do not pursue. The fundamental philosophies on human behavior and execution are diametrically opposed.",
+   "secondDate": false
+  }
+ },
+ "hormozi__melrobbins": {
+  "hormozi": {
+   "score": 15,
+   "verdict": "Hard pass. Mel requires emotional patience Alex does not deploy.",
+   "secondDate": false
+  },
+  "melrobbins": {
+   "score": 15,
+   "verdict": "Do not meet. Alex is a calculator, not a partner who can weather a crisis.",
+   "secondDate": false
+  }
+ },
+ "hormozi__nikhilkamathcio": {
+  "hormozi": {
+   "score": 15,
+   "verdict": "Do not meet. Nikhil is a macro philosopher, not the high-intensity execution partner Alex requires.",
+   "secondDate": false
+  },
+  "nikhilkamathcio": {
+   "score": 15,
+   "verdict": "Pass, Alex treats intimacy like a media production.",
+   "secondDate": false
+  }
+ },
+ "hormozi__rajshamani": {
+  "rajshamani": {
+   "score": 15,
+   "verdict": "Hard pass, do not meet them.",
+   "secondDate": false
+  },
+  "hormozi": {
+   "score": 25,
+   "verdict": "Do not meet. Raj requires emotional validation that would only serve as a bottleneck to your operations.",
+   "secondDate": false
+  }
+ },
+ "hormozi__reidhoffman": {
+  "hormozi": {
+   "score": 15,
+   "verdict": "Pass. The operational timelines and core philosophies are fundamentally incompatible.",
+   "secondDate": false
+  },
+  "reidhoffman": {
+   "score": 15,
+   "verdict": "Do not meet. The tactical execution focus offers zero intellectual synergy.",
+   "secondDate": false
+  }
+ },
+ "hormozi__richardbranson": {
+  "richardbranson": {
+   "score": 5,
+   "verdict": "Do not bother, Richard; Alex would only try to turn your balloons into spreadsheets.",
+   "secondDate": false
+  },
+  "hormozi": {
+   "score": 5,
+   "verdict": "Do not meet. Richard is a chaotic variable that would destroy your focus.",
+   "secondDate": false
+  }
+ },
+ "hormozi__sarablakely": {
+  "sarablakely": {
+   "score": 10,
+   "verdict": "Hard pass, Sara; Alex is far too robotic and lacks the playful spirit you need.",
+   "secondDate": false
+  },
+  "hormozi": {
+   "score": 15,
+   "verdict": "Hard pass. Zero alignment on scheduling fun.",
+   "secondDate": false
+  }
+ },
+ "hormozi__simonsinek": {
+  "hormozi": {
+   "score": 10,
+   "verdict": "Hard pass. Skip the second date entirely.",
+   "secondDate": false
+  },
+  "simonsinek": {
+   "score": 5,
+   "verdict": "Do not meet; Alex treats life as a finite math problem while you play the infinite game.",
+   "secondDate": false
+  }
+ },
+ "hormozi__steven": {
+  "steven": {
+   "score": 15,
+   "verdict": "Do not pursue; Alex is too rigid and would stifle the creative chaos Steven requires.",
+   "secondDate": false
+  },
+  "hormozi": {
+   "score": 25,
+   "verdict": "Hard pass. The operational churn is too high.",
+   "secondDate": false
+  }
+ },
+ "hormozi__thesharkdaymond": {
+  "hormozi": {
+   "score": 35,
+   "verdict": "Do not pursue. Daymond prioritizes the spotlight, which conflicts with Alex's focus on infrastructure.",
+   "secondDate": false
+  },
+  "thesharkdaymond": {
+   "score": 35,
+   "verdict": "Pass. The ego friction and distaste for the spotlight will choke Daymond's media empire.",
+   "secondDate": false
+  }
+ },
+ "hormozi__thisisbillgates": {
+  "thisisbillgates": {
+   "score": 15,
+   "verdict": "Do not meet; Alex fundamentally lacks patience for global equity initiatives.",
+   "secondDate": false
+  },
+  "hormozi": {
+   "score": 15,
+   "verdict": "Hard pass, the fundamental misalignment on time horizons and operational focus makes this alliance unviable.",
+   "secondDate": false
+  }
+ },
+ "hormozi__timferriss": {
+  "hormozi": {
+   "score": 25,
+   "verdict": "Hard pass; Tim is too focused on lifestyle optimization, not the relentless grind Alex requires.",
+   "secondDate": false
+  },
+  "timferriss": {
+   "score": 15,
+   "verdict": "Hard pass. Too much noise, not enough leverage.",
+   "secondDate": false
+  }
+ },
+ "hormozi__tonyrobbins": {
+  "tonyrobbins": {
+   "score": 35,
+   "verdict": "Skip a second date because the operating systems completely clash.",
+   "secondDate": false
+  },
+  "hormozi": {
+   "score": 15,
+   "verdict": "Do not pursue. The operating systems are fundamentally incompatible.",
+   "secondDate": false
+  }
+ },
+ "hormozi__vancityreynolds": {
+  "hormozi": {
+   "score": 15,
+   "verdict": "Do not meet. Too much friction and zero strategic alignment.",
+   "secondDate": false
+  },
+  "vancityreynolds": {
+   "score": 5,
+   "verdict": "Hard pass, unless you suddenly decide that spreadsheets are more fun than coastal walks.",
+   "secondDate": false
+  }
+ }
+}

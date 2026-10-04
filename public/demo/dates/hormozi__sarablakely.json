@@ -1,0 +1,46 @@
+{
+ "a": "sarablakely",
+ "b": "hormozi",
+ "turns": [
+  {
+   "who": "sarablakely",
+   "text": "Alex sounds like a machine, but Sara needs a partner who can match a high-production household. Does Alex have any room for spontaneous tarp sliding, or is every moment optimized for a strategic alliance? Sara refuses to give up the scrunchie or the fries for someone who treats life like a rigid business textbook."
+  },
+  {
+   "who": "hormozi",
+   "text": "Alex doesn't do spontaneous; Alex does calculated execution. If tarp sliding provides a high-leverage mental reset, it goes on the calendar as a recovery protocol, not a whimsical whim. Alex treats life like a business because business is the only game worth playing. Does Sara view her own chaos as a measurable performance metric or just noise?"
+  },
+  {
+   "who": "sarablakely",
+   "text": "Sara calls that joyful chaos and treats it like an endless commercial shoot instead of a balance sheet! If Alex cannot handle a spontaneous french fry run without a recovery protocol, it is a hard pass. Does Alex even know how to laugh without running a Q3 review first?"
+  },
+  {
+   "who": "hormozi",
+   "text": "Alex laughs, but only at high-efficiency outcomes. If a french fry run doesn't serve as a tactical feedback loop or a strategic break, Alex views it as a wasted asset. Efficiency is the ultimate form of discipline. Is Sara’s commercial shoot mentality a scaling strategy, or does she just prioritize vanity over long-term enterprise value?"
+  },
+  {
+   "who": "sarablakely",
+   "text": "Sara builds empires while wearing scrunchies and laughing at past failures, which is real enterprise value. If Alex cannot handle a partner who treats life like a theatrical show and refuses to schedule fun, this alliance is going bankrupt. Alex is a hard pass for Sara!"
+  },
+  {
+   "who": "hormozi",
+   "text": "Alex views theatrical shows as low-leverage noise and considers uncalibrated fun a waste of capital. A rigid alliance requires zero emotional drag, so a hard pass is mutual. Tell Sara to stick to the scrunchies while Alex scales the portfolio."
+  }
+ ],
+ "debrief": {
+  "sarablakely": {
+   "clicked": "Both parties are obsessed with building empires and value relentless, high-energy output in their daily lives.",
+   "worried": "Alex views life as a rigid, optimized spreadsheet, which completely clashes with Sara's theatrical, spontaneous, and messy approach to business and family.",
+   "verdict": "Hard pass, Sara; Alex is far too robotic and lacks the playful spirit you need.",
+   "score": 10,
+   "secondDate": false
+  },
+  "hormozi": {
+   "clicked": "Both sides recognize the absolute need for high-intensity ambition and building large commercial empires.",
+   "worried": "Sara treats life like an endless commercial shoot and unscripted theatrical show, which Alex views as low-leverage noise.",
+   "verdict": "Hard pass. Zero alignment on scheduling fun.",
+   "score": 15,
+   "secondDate": false
+  }
+ }
+}

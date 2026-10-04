@@ -1,0 +1,46 @@
+{
+ "a": "rajshamani",
+ "b": "hormozi",
+ "turns": [
+  {
+   "who": "rajshamani",
+   "text": "Raj is currently out building Cüraa by YFL Home and trying to scale *Figuring Out*, so I am here to figure out if Alex actually understands the science of winning in the modern world. Raj measures every single hour by its opportunity cost and frankly does not know how to switch off. \n\nDoes Alex view romance purely as a spreadsheet metric, or is there actual room for a dog named Crypto in that strategy?"
+  },
+  {
+   "who": "hormozi",
+   "text": "Alex completed a Vanderbilt degree in three years magna cum laude while running campus organizations, so the opportunity cost math is already solved. If Raj brings a dog everywhere, that is a variable that introduces friction to a high-output production studio. \n\nDoes Raj measure relationship ROI with a clear timeline, or is it just another endless podcast topic?"
+  },
+  {
+   "who": "rajshamani",
+   "text": "Raj does not view relationships as a spreadsheet metric, but ambition took over their brain and there is no room for someone who calls Crypto a friction variable. Every small distraction quietly takes away focus, so Raj needs someone who matches that relentless drive without treating affection like a bottleneck. \n\nDoes Alex actually love dogs, or is that just another inefficiency to optimize out?"
+  },
+  {
+   "who": "hormozi",
+   "text": "Alex views the world through leverage, behavioral psychology, and high-intensity execution, not pets. If a dog is a distraction, Alex deletes the variable and moves forward. \n\nDoes Raj have a long-term strategic horizon for building companies, or is it just endless content creation?"
+  },
+  {
+   "who": "rajshamani",
+   "text": "Raj is building a legacy, not just content, but your assessment of Alex makes this a hard pass. Raj needs a partner who appreciates the soul behind the hustle, not someone who deletes variables to optimize human connection. We are looking for a teammate, not a ruthless algorithm, so this alliance is officially off the table."
+  },
+  {
+   "who": "hormozi",
+   "text": "Fair enough. Alex wrote that a true partner is worth their weight in gold, but if Raj needs soul over execution, the feedback loop breaks right here. We optimize for leverage, speed, and long-term scaling, so parting ways now keeps both pipelines clean."
+  }
+ ],
+ "debrief": {
+  "rajshamani": {
+   "clicked": "The shared obsession with high-intensity execution and relentless ambition nearly found common ground.",
+   "worried": "Alex treats companions as variables to optimize and calls the dog a friction point.",
+   "verdict": "Hard pass, do not meet them.",
+   "score": 15,
+   "secondDate": false
+  },
+  "hormozi": {
+   "clicked": "Raj shares a high-intensity drive and understands that every hour has a measurable opportunity cost.",
+   "worried": "Raj prioritizes emotional sentiment and soul over the cold, systematic execution that defines Alex's life.",
+   "verdict": "Do not meet. Raj requires emotional validation that would only serve as a bottleneck to your operations.",
+   "score": 25,
+   "secondDate": false
+  }
+ }
+}

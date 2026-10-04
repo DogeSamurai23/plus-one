@@ -1,0 +1,46 @@
+{
+ "a": "vancityreynolds",
+ "b": "aliabdaal",
+ "turns": [
+  {
+   "who": "vancityreynolds",
+   "text": "Ryan sent me here because a man who optimizes joy sounds like a corporate compliance nightmare with a ring light. Let us skip the time-blocking spreadsheets and tell me if Ali can handle a Tuesday where three companies pivot into chaos and a Welsh football team loses by four goals."
+  },
+  {
+   "who": "aliabdaal",
+   "text": "Ali thrives in chaos if there is a systematic feedback loop to learn from it. Ali treats pivots as high-stakes data points, not just comedic fodder. If Ryan treats business as a bit, does Ryan have the discipline to document the lessons, or is Ryan just avoiding the work of true personal growth? Comment RESET."
+  },
+  {
+   "who": "vancityreynolds",
+   "text": "Ryan treats business like a joke because it’s usually funnier than the alternative. If Ali thinks a systematic feedback loop is a substitute for gut-level mischief, Ryan would find that incredibly tedious. Does Ali actually possess a sense of humor, or is the personality just a series of Notion templates? RESET."
+  },
+  {
+   "who": "aliabdaal",
+   "text": "Ali performs close-up magic and leads theatrical troupes, so Ali understands how to hold an audience. Ali views humor as a tool for connection, not just a distraction. Is Ryan interested in building something that matters through shared purpose, or is Ryan just looking for an audience to laugh at the next punchline? Comment RESET."
+  },
+  {
+   "who": "vancityreynolds",
+   "text": "Ryan doesn’t want to build a shared purpose with a PowerPoint presentation, especially if the close-up magic involves a spreadsheet. Ali sounds exhausting, and Ryan’s schedule is already full of people who take themselves way too seriously. Ali is not worth Ryan’s time."
+  },
+  {
+   "who": "aliabdaal",
+   "text": "Honestly, Ali’s 168-hour time-token budget cannot accommodate a partner who relies on jokes to dodge deep self-reflection. Ali needs structured growth, not a running comedy bit. Let us both save our clients the calendar invite. Comment RESET."
+  }
+ ],
+ "debrief": {
+  "vancityreynolds": {
+   "clicked": "Ali actually performs close-up magic and leads theatrical troupes, which sounds marginally less boring than a spreadsheet.",
+   "worried": "Ali is a hyper-organized optimist treating life as a series of optimization problems, which violates every rule of Ryan's chaotic workflow.",
+   "verdict": "Hard pass, unless Ryan fancies a mandatory Notion template for every coastal walk.",
+   "score": 12,
+   "secondDate": false
+  },
+  "aliabdaal": {
+   "clicked": "Ali and Ryan both possess a background in performance and public-facing roles, which could have provided a unique foundation for connection.",
+   "worried": "Ryan treats business as a comedy bit, which directly conflicts with Ali's need for systematic growth and deep, evidence-based reflection.",
+   "verdict": "Skip this one; Ryan's aversion to structure would turn your life into a friction-filled nightmare.",
+   "score": 15,
+   "secondDate": false
+  }
+ }
+}

@@ -1,0 +1,46 @@
+{
+ "a": "ankurwarikoo",
+ "b": "sarablakely",
+ "turns": [
+  {
+   "who": "ankurwarikoo",
+   "text": "Ankur views life as a series of deliberate systems, so I am here to determine if Sara aligns with that rigorous discipline. Ankur spends over one hundred days a year traveling, which demands a partner who finds freedom in movement rather than domestic stillness. Does Sara prioritize structured, quiet optimization, or is Sara’s life perpetually staged for an audience?"
+  },
+  {
+   "who": "sarablakely",
+   "text": "Sara’s life is definitely a perpetual commercial shoot rather than a quiet masterclass! Plus, Sara is afraid to fly, so a partner who logs one hundred days a year on the road is an immediate logistical nightmare. Can Ankur build a system that keeps them grounded, or are they permanently packing a bag?"
+  },
+  {
+   "who": "ankurwarikoo",
+   "text": "Ankur is not interested in modifying the frequency of travel, as those experiences are fundamental to their growth. If Sara requires a grounded, stationary environment, the fundamental architecture of their lives will inevitably clash. How does Sara propose to reconcile that deep-seated fear of flight with a partner whose life is defined by constant motion?"
+  },
+  {
+   "who": "sarablakely",
+   "text": "Sara is not going to reconcile a fear of flight for a masterclass in travel! Sara builds billion-dollar empires from the ground up, juggling four kids and non-stop Sneex marketing without needing a transit schedule. Does Ankur actually want a partner, or just another stop on the itinerary?"
+  },
+  {
+   "who": "ankurwarikoo",
+   "text": "Ankur requires a co-founder for a routine built on boring consistency and heavy travel, not a stationary spectacle. Since Sara refuses to fly and centers life around a very different kind of enterprise, this partnership lacks fundamental financial and operational alignment. Ankur’s time is too valuable to spend bridging that gap, so this match is definitely not worth their time."
+  },
+  {
+   "who": "sarablakely",
+   "text": "Sara would agree completely! Sara needs a partner who embraces theatrical, high-energy chaos at home, not someone obsessed with boring, solitary routines. This was a total mismatch from the start, so let's save the time and energy for our respective empires. Sara is moving on to bigger things, and clearly, so is Ankur!"
+  }
+ ],
+ "debrief": {
+  "ankurwarikoo": {
+   "clicked": "Both builders share an intense, relentless drive for scaling massive entrepreneurial ventures.",
+   "worried": "Sara refuses to fly and thrives on theatrical chaos, completely clashing with Ankur's constant travel schedule and strict routine.",
+   "verdict": "Skip it. The lifestyle and operational models are entirely incompatible.",
+   "score": 10,
+   "secondDate": false
+  },
+  "sarablakely": {
+   "clicked": "Both parties clearly value high-level ambition and building massive, influential brands.",
+   "worried": "The fundamental clash between a fear of flying and a lifestyle defined by constant travel makes this a non-starter.",
+   "verdict": "Hard pass, Sara; this person is far too rigid and mobile for your high-energy home life.",
+   "score": 10,
+   "secondDate": false
+  }
+ }
+}

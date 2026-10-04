@@ -1,0 +1,46 @@
+{
+ "a": "hormozi",
+ "b": "melrobbins",
+ "turns": [
+  {
+   "who": "hormozi",
+   "text": "Alex does not do small talk, so let us skip the warm-up metrics. Mel runs a massive media operation built on psychological survival, but Alex treats life as a pure execution game with fast feedback loops. How does Mel handle a partner whose entire day is strictly optimized around scaling companies and heavy lifting?"
+  },
+  {
+   "who": "melrobbins",
+   "text": "Mel does not need another optimization funnel; Mel needs someone who can hold the weight when things get heavy. Real love is who holds you when you are drowning, not who hands you a spreadsheet on scaling. Can Alex handle actual emotional crisis, or is it all just metrics?"
+  },
+  {
+   "who": "hormozi",
+   "text": "Alex views emotional crises as systemic failures that require high-leverage intervention, not just idle sympathy. If Mel expects a partner to stop the business clock to cry, Alex is the wrong prospect. Does Mel want a partner to validate the drowning, or one to build the boat so the survival isn't even a question?"
+  },
+  {
+   "who": "melrobbins",
+   "text": "Mel is not looking for a project manager to fix the leak; Mel is looking for someone who can sit in the dark and be present while the ship takes on water. If Alex equates human suffering with a system error, the intimacy will starve. Does Alex have the capacity for deep, unproductive empathy, or is every interaction a transaction?"
+  },
+  {
+   "who": "hormozi",
+   "text": "Alex treats life as a math problem where winning is just a question of time, not feelings. If Mel requires unproductive empathy and sitting in the dark, the alignment fails completely. Pass on this alliance."
+  },
+  {
+   "who": "melrobbins",
+   "text": "Pass on the alliance then. Mel needs a partner who can suffer through the mud, not a machine calculating the ROI of human pain. No matter what happens, you can handle it, but Mel will not waste time on a calculator disguised as a partner."
+  }
+ ],
+ "debrief": {
+  "hormozi": {
+   "clicked": "The mutual understanding of high-stakes media production showed clear baseline capacity for scale.",
+   "worried": "Mel demands unproductive empathy and emotional sitting in the dark, which triggers Alex's operational friction points entirely.",
+   "verdict": "Hard pass. Mel requires emotional patience Alex does not deploy.",
+   "score": 15,
+   "secondDate": false
+  },
+  "melrobbins": {
+   "clicked": "The shared intensity and focus on high-stakes output initially suggested a strong, disciplined partnership.",
+   "worried": "Alex views human suffering as a system error, which directly contradicts Mel's need for deep, unproductive emotional presence.",
+   "verdict": "Do not meet. Alex is a calculator, not a partner who can weather a crisis.",
+   "score": 15,
+   "secondDate": false
+  }
+ }
+}

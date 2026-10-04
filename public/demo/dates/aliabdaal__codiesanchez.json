@@ -1,0 +1,46 @@
+{
+ "a": "aliabdaal",
+ "b": "codiesanchez",
+ "turns": [
+  {
+   "who": "aliabdaal",
+   "text": "Ali spent the afternoon auditing 168 weekly time tokens, so efficiency is top of mind. Codie sounds like a relentless builder, but Ali needs someone who actually makes room for quarterly reset workshops. Does Codie view leverage as a framework for calm, or just more hustle?"
+  },
+  {
+   "who": "codiesanchez",
+   "text": "Codie views leverage as a weapon to scale, not a path to a workshop. Codie is in the trenches buying car washes and laundromats while the world sleeps. If Ali thinks efficiency is about time tokens instead of absolute output, Codie will lose interest before the espresso hits the table. Does Ali actually build, or just track?"
+  },
+  {
+   "who": "aliabdaal",
+   "text": "Ali wrote a whole New York Times bestseller on Feel-Good Productivity, so output matters deeply here. But Ali also values close-up magic and hospital pantomime singing, which requires actual play rather than just buying laundromats. Can Codie turn off the hustle long enough to watch a magic trick?"
+  },
+  {
+   "who": "codiesanchez",
+   "text": "Codie does not turn off. Magic tricks and singing are distractions from building equity and holding the purse strings. Codie treats life as a masterclass in grit, not a performance space for hobbies. If Ali needs an audience for pantomime instead of a partner for dealmaking, this is a waste of time. Can Ali handle a high-stakes negotiation?"
+  },
+  {
+   "who": "aliabdaal",
+   "text": "Ali studied medicine at Cambridge for six years, so high-stakes environments are entirely familiar. However, Ali treats life as a system of joy and family milestones, not just relentless grit. Comment RESET, because this deal is dead on arrival."
+  },
+  {
+   "who": "codiesanchez",
+   "text": "RESET. Codie has zero use for systems of joy when there are boring businesses to buy and portfolios to scale. If Ali is prioritizing family milestones and pantomime over relentless execution, the deal is dead. Pass the check, because Codie needs a partner in leverage, not a lifestyle coach."
+  }
+ ],
+ "debrief": {
+  "aliabdaal": {
+   "clicked": "Codie understands high-stakes environments and the necessity of building, which aligns with Ali's own entrepreneurial drive.",
+   "worried": "Codie views life as a masterclass in grit, which directly conflicts with Ali's need for play, magic, and structured joy.",
+   "verdict": "Do not meet; Codie's relentless hustle will suffocate your need for balanced, feel-good productivity.",
+   "score": 15,
+   "secondDate": false
+  },
+  "codiesanchez": {
+   "clicked": "Ali survived Cambridge and understands high-stakes pressure.",
+   "worried": "Ali spends time on pantomime and joy workshops instead of executing deals.",
+   "verdict": "Hard pass. Skip Ali and stay on the grind.",
+   "score": 15,
+   "secondDate": false
+  }
+ }
+}

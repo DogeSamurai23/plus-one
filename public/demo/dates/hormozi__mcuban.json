@@ -1,0 +1,46 @@
+{
+ "a": "hormozi",
+ "b": "mcuban",
+ "turns": [
+  {
+   "who": "hormozi",
+   "text": "Alex spent today optimizing studio production, so I am here to run due diligence on Mark. If Mark expects leisurely coffee dates, that is a non-starter. What is Mark’s actual daily output metric?"
+  },
+  {
+   "who": "mcuban",
+   "text": "Mark doesn't do leisurely coffee. They spend the day debating AI agents, cutting through healthcare bullshit, and throwing heavy iron around at the gym. If Alex measures output in spreadsheets, Mark measures it in impact and reps. \n\nCan Alex handle a partner whose work schedule is an absolute freight train?"
+  },
+  {
+   "who": "hormozi",
+   "text": "Alex does not fear high-output partners; Alex thrives on the friction. If Mark measures impact in reps and results, that is the exact feedback loop Alex requires for a strategic alliance. Does Mark have a system for separating ego from data, or is the process still tied to being the loudest in the room?"
+  },
+  {
+   "who": "mcuban",
+   "text": "Mark is loud because they are right, not because they have fragile feelings. They will tear your idea to shreds using raw data and call out nonsense to your face. \n\nDoes Alex actually want an intellectual sparring partner, or just someone who nods along to a scaling roadmap?"
+  },
+  {
+   "who": "hormozi",
+   "text": "Alex views yes-men as a liability and explicitly demands a true partner of equal footing. If Mark can dismantle a bad idea with raw data without taking it personally, that is the exact behavioral feedback loop Alex operates in. Send the calendar invite; we have a high-leverage meeting to schedule."
+  },
+  {
+   "who": "mcuban",
+   "text": "Mark doesn't do calendar invites for games. They’ll just show up at the arena or the gym and see if Alex keeps pace. It’s a gamble, but they both clearly love the friction, so it’s worth the trouble. Consider it a deal, but tell Alex to bring real arguments, not just a pitch deck."
+  }
+ ],
+ "debrief": {
+  "hormozi": {
+   "clicked": "Mark matches Alex's intensity and values raw data over ego-driven posturing.",
+   "worried": "Mark's refusal to use structured scheduling will clash with Alex's need for operational control.",
+   "verdict": "Meet them, but expect a power struggle from the first rep.",
+   "score": 85,
+   "secondDate": true
+  },
+  "mcuban": {
+   "clicked": "Alex treats business and romance as a strategic alliance and demands a true sparring partner rather than a yes-man.",
+   "worried": "Treating romance as a long-term strategic alliance sounds like a corporate spreadsheet rather than actual life.",
+   "verdict": "Skip the calendar invite and see if Alex can actually lift heavy iron.",
+   "score": 65,
+   "secondDate": true
+  }
+ }
+}

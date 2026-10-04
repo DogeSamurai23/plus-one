@@ -1,0 +1,46 @@
+{
+ "a": "hormozi",
+ "b": "thesharkdaymond",
+ "turns": [
+  {
+   "who": "hormozi",
+   "text": "Alex treats business and romance as a long term strategic alliance, not a pitch room. If Daymond brings TV drama to a Tuesday, Alex will just run the numbers on the CAC. \n\nDoes Daymond have a three year time horizon for scaling, or is Daymond still chasing the next quick deal?"
+  },
+  {
+   "who": "thesharkdaymond",
+   "text": "Daymond doesn’t chase quick deals; Daymond builds legacy brands like FUBU by scaling assets that stick. If Alex thinks Tuesday TV production is just a CAC calculation, Daymond won't see the value. Does Alex understand how to monetize a personal brand, or is the alliance strictly limited to cold, analytical data?"
+  },
+  {
+   "who": "hormozi",
+   "text": "Alex monetizes by documenting the build, not by performing for cameras. Alex views personal brands as lead magnets for Acquisition.com, not as products themselves. If Daymond prioritizes the vanity of the brand over the leverage of the infrastructure, there is no alignment. Is Daymond building a legacy, or just a portfolio of high-maintenance liabilities?"
+  },
+  {
+   "who": "thesharkdaymond",
+   "text": "Daymond treats brand visibility and media leverage as core assets, not vanity metrics. Daymond engineered a multi-decade empire across fashion, venture capital, and Shark Tank by turning exposure straight into market dominance. Can Alex leverage organic reach to scale past a single portfolio, or does the strategy stop at cold spreadsheets?"
+  },
+  {
+   "who": "hormozi",
+   "text": "Alex builds leverage through high-intensity content that converts viewers into acquisition leads. Daymond clearly understands the scale of media, but Alex avoids the theater of the pitch room. Their strategic horizons align, but Alex demands total operational integration. I am logging this as a potential high-level alliance, but the ego friction might be the deal-breaker."
+  },
+  {
+   "who": "thesharkdaymond",
+   "text": "Daymond respects the operational focus, but ego friction is a non-starter if there is no room for public positioning. Daymond needs a partner who amplifies the brand, not one who competes with the spotlight. I am passing on this alliance because Daymond treats every ecosystem as a stage, and Alex clearly wants the backdrop to be invisible."
+  }
+ ],
+ "debrief": {
+  "hormozi": {
+   "clicked": "Daymond understands the value of media leverage and long-term asset scaling.",
+   "worried": "Daymond requires a partner to amplify a public brand, while Alex demands total operational integration.",
+   "verdict": "Do not pursue. Daymond prioritizes the spotlight, which conflicts with Alex's focus on infrastructure.",
+   "score": 35,
+   "secondDate": false
+  },
+  "thesharkdaymond": {
+   "clicked": "Alex matches the relentless operational focus and obsession with long-term asset growth.",
+   "worried": "Alex treats public visibility as a mere lead magnet rather than a primary stage for brand dominance.",
+   "verdict": "Pass. The ego friction and distaste for the spotlight will choke Daymond's media empire.",
+   "score": 35,
+   "secondDate": false
+  }
+ }
+}

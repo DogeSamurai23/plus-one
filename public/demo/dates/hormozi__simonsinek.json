@@ -1,0 +1,46 @@
+{
+ "a": "hormozi",
+ "b": "simonsinek",
+ "turns": [
+  {
+   "who": "hormozi",
+   "text": "Simon sounds like a nice guy, but Alex does not need an optimist. Alex needs a high-intensity partner for scaling Acquisition.com who treats marriage like a strategic alliance, not a philosophical seminar. \n\nHow does Simon handle fast feedback loops and ruthless execution under pressure?"
+  },
+  {
+   "who": "simonsinek",
+   "text": "Simon does not chase speed; Simon starts with *why*. If Alex treats marriage like a quarterly shareholder review, Simon would gently ask what game Alex is actually trying to win. \n\nDoes Alex have room for someone who wants to dissect childhood dreams over a quiet two-hour dinner, or is every conversation just a growth metric?"
+  },
+  {
+   "who": "hormozi",
+   "text": "Alex would find a two-hour dinner about childhood dreams to be a massive waste of leverage. Alex operates on a long time horizon where winning is just a math problem, not a philosophy question. \n\nCan Simon actually close deals, or does Simon just talk about why people want to buy them?"
+  },
+  {
+   "who": "simonsinek",
+   "text": "Simon does not close transactions; Simon builds movements that make transactions irrelevant. If Alex views legacy as a spreadsheet, Alex is playing a finite game with infinite stakes. \n\nHow does Alex handle a partner whose primary KPI is human empathy rather than compounding revenue?"
+  },
+  {
+   "who": "hormozi",
+   "text": "Alex would view empathy as a soft metric that lacks the data to scale. If the goal isn't profit or operational efficiency, Alex loses interest immediately. They are misaligned. Alex builds empires with partners who execute, not philosophers who debate, so this alliance is a non-starter."
+  },
+  {
+   "who": "simonsinek",
+   "text": "Then we agree to let this be a terminal feedback loop. Simon needs deep dialogue and shared purpose, not a strategic alliance measured in EBITDA. \n\nIt has been illuminating, but Simon and Alex are simply playing entirely different games."
+  }
+ ],
+ "debrief": {
+  "hormozi": {
+   "clicked": "Simon focuses on long-term vision and purpose, which matches Alex's long time horizon.",
+   "worried": "Simon values empathy and philosophical dialogue, whereas Alex views anything outside of ruthless execution and metrics as a waste of leverage.",
+   "verdict": "Hard pass. Skip the second date entirely.",
+   "score": 10,
+   "secondDate": false
+  },
+  "simonsinek": {
+   "clicked": "The conversation clarified that while Simon and Alex both possess intense focus, their fundamental definitions of success are diametrically opposed.",
+   "worried": "Alex views human connection as a metric to be optimized, which directly contradicts Simon's need for vulnerability and meaningful, non-transactional dialogue.",
+   "verdict": "Do not meet; Alex treats life as a finite math problem while you play the infinite game.",
+   "score": 5,
+   "secondDate": false
+  }
+ }
+}

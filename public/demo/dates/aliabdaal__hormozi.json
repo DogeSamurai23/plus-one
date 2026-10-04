@@ -1,0 +1,46 @@
+{
+ "a": "hormozi",
+ "b": "aliabdaal",
+ "turns": [
+  {
+   "who": "hormozi",
+   "text": "Alex does not need another cheerleading optimist talking about feel-good productivity. Alex needs a ruthless operator who views a relationship as a long-term strategic alliance with fast feedback loops. How does Ali handle execution when the motivation inevitably runs out?"
+  },
+  {
+   "who": "aliabdaal",
+   "text": "Ali treats life as a series of optimization problems rather than relying on raw motivation, breaking the week down into exact time tokens. Frankly, Ali would probably try to gamify Alex's feedback loops into a spreadsheet before the appetizers even arrive. Comment RESET if you think Alex can survive an annual planning workshop! How does Alex handle a partner who schedules downtime down to the minute?"
+  },
+  {
+   "who": "hormozi",
+   "text": "Alex would fire anyone who schedules downtime. Alex wants ruthless execution, not a color-coded spreadsheet about feelings. Does Ali actually build things that scale, or just make videos about how to build things?"
+  },
+  {
+   "who": "aliabdaal",
+   "text": "Ali built the Lifestyle Business Academy and Superfocus while maintaining six million subscribers and a New York Times bestseller, so the execution speaks for itself. Ali might love a good time-blocking token framework, but there is real operational weight behind it. Does Alex actually know how to disconnect, or is work just a permanent state of avoidance?"
+  },
+  {
+   "who": "hormozi",
+   "text": "Alex has zero interest in disconnecting because winning is a when question, not an if question. Ali sounds far too obsessed with feeling good and tracking time tokens. Alex needs an equal-footing partner for Acquisition.com, not a productivity coach. Pass."
+  },
+  {
+   "who": "aliabdaal",
+   "text": "Ali would say that optimizing our personal systems is the only way to sustain winning long-term. Honestly, if Alex views everything through such a rigid lens of conquest, it completely misses the joy of feeling-good productivity. This isn't a match for Ali, but best of luck with the scaling roadmap."
+  }
+ ],
+ "debrief": {
+  "hormozi": {
+   "clicked": "Ali actually builds revenue-generating products instead of just talking.",
+   "worried": "Ali spends too much time on time-blocking and feel-good optimization.",
+   "verdict": "Pass. Too much focus on feeling good instead of ruthless execution.",
+   "score": 35,
+   "secondDate": false
+  },
+  "aliabdaal": {
+   "clicked": "Ali and Alex both share an intense obsession with structured systems and scaling businesses.",
+   "worried": "Alex treats romance as a strategic alliance and has zero interest in scheduling downtime or feeling-good productivity.",
+   "verdict": "Hard pass. Alex lacks the warmth Ali needs.",
+   "score": 15,
+   "secondDate": false
+  }
+ }
+}

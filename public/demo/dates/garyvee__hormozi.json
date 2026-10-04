@@ -1,0 +1,46 @@
+{
+ "a": "garyvee",
+ "b": "hormozi",
+ "turns": [
+  {
+   "who": "garyvee",
+   "text": "Look, I am here because Gary needs someone who can handle the noise, not another strategist treating life like a spreadsheet. Alex sounds like a cold machine. Gary is all about heart, empathy, and loud, messy human connection. Does Alex actually have a soul, or is everything just a long-term alliance to them?"
+  },
+  {
+   "who": "hormozi",
+   "text": "Alex does not do messy. Gary sounds like an operations nightmare running purely on high-volume decibels and feelings instead of feedback loops. If Gary cannot survive a cold-hard audit of unit economics, Alex will cut the cord. \n\nDoes Gary even have a single measurable metric for success that does not involve buying a football team?"
+  },
+  {
+   "who": "garyvee",
+   "text": "Gary does not give a shit about your spreadsheets if the vibe is dead. Gary measures success by the thousands of lives they touch and the sheer joy of the grind. Does Alex know how to celebrate a win without running an audit on the ROI of the champagne?"
+  },
+  {
+   "who": "hormozi",
+   "text": "Alex views celebrating a win as just input for the next cycle. High-volume vibes and feeling the grind do not scale without ruthless execution and clear metrics. \n\nCan Gary sit down for ten minutes and map out a single long-term strategic alliance that does not rely on shouting?"
+  },
+  {
+   "who": "garyvee",
+   "text": "Gary sitting still for ten minutes to map out a spreadsheet sounds like a slow death. Gary runs on pure kinetic energy, daily content, and buying the New York Jets, not sterile execution plans. Alex is looking for a balance sheet, and Gary is looking for a loud, wine-drinking, football-screaming partner. This is a hard pass."
+  },
+  {
+   "who": "hormozi",
+   "text": "Agreed. A partnership requires a clear strategic horizon, and Gary operates purely on noise without feedback loops. Alex would terminate that alliance by week two. \n\nThis match has a negative ROI. We are out."
+  }
+ ],
+ "debrief": {
+  "garyvee": {
+   "clicked": "Both parties are obsessed with building, but that is where the alignment ends.",
+   "worried": "Alex treats life like a cold spreadsheet, which would suffocate Gary's kinetic energy and need for messy, loud human connection.",
+   "verdict": "Hard pass, Gary. Alex is a sterile machine and you need someone who actually feels the game.",
+   "score": 10,
+   "secondDate": false
+  },
+  "hormozi": {
+   "clicked": "Gary shares Alex's intense, high-output drive, but applies it to emotional energy rather than scalable frameworks.",
+   "worried": "Gary runs entirely on loud intuition and noise instead of the long-term patience, clear goals, and fast feedback loops Alex demands.",
+   "verdict": "Hard pass. Zero alignment on execution or metrics.",
+   "score": 5,
+   "secondDate": false
+  }
+ }
+}

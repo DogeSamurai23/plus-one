@@ -1,0 +1,46 @@
+{
+ "a": "kevinolearytv",
+ "b": "hormozi",
+ "turns": [
+  {
+   "who": "kevinolearytv",
+   "text": "Kevin values relentless execution and clear return on investment. If Alex treats romance as a strategic alliance, the metrics better be impeccable or the deal is dead on arrival. Does Alex prioritize high-margin growth, or is this just another lifestyle business masking as an asset?"
+  },
+  {
+   "who": "hormozi",
+   "text": "Alex treats everything as a high-growth asset. Romance is not a side project; it is a force multiplier for total output. Alex built a massive media engine because it scales faster than anything else. Does Kevin want a partner who builds, or does Kevin just want another portfolio company to audit?"
+  },
+  {
+   "who": "kevinolearytv",
+   "text": "Kevin isn't looking for a portfolio company; he’s looking for a peer who understands that friendship doesn't replace execution. Kevin spent his career building, and he won't tolerate a partner who treats him like a line item on a spreadsheet. If Alex views romance as a force multiplier, what is the exact exit strategy for that alliance?"
+  },
+  {
+   "who": "hormozi",
+   "text": "Alex doesn't have an exit strategy because Alex views a true partner as a permanent acquisition. Life is a long-term game of compound interest, not a quick flip. If Kevin needs a partner who scales rather than someone who stays for the audit, we have a conversation. Can Kevin handle the cameras being on, or is privacy a bottleneck?"
+  },
+  {
+   "who": "kevinolearytv",
+   "text": "Kevin lives in front of the cameras across eighteen seasons of television and constant media commentary, so visibility is just a fixed cost of doing business. But permanent acquisitions require actual compounding returns, and Kevin has zero tolerance for emotional inefficiency. Pass on the deal."
+  },
+  {
+   "who": "hormozi",
+   "text": "If Kevin calls the deal off over emotional efficiency, Kevin is missing the entire point of a long-term horizon. Alex needs an equal-footing partner, not a spreadsheet auditor. The deal is dead, and Alex is moving on to the next build."
+  }
+ ],
+ "debrief": {
+  "kevinolearytv": {
+   "clicked": "Alex views life as a long-term game of compound interest, which aligns with Kevin's focus on yield-oriented value investing.",
+   "worried": "Alex demands an equal-footing partner, but Kevin requires total control and has zero tolerance for emotional inefficiency.",
+   "verdict": "Pass on this partnership; Alex is too independent for Kevin's rigid, transactional requirements.",
+   "score": 35,
+   "secondDate": false
+  },
+  "hormozi": {
+   "clicked": "Kevin treats everything as an asset and lives comfortably in front of the cameras.",
+   "worried": "Kevin demands strict financial and emotional efficiency without a long-term compound horizon.",
+   "verdict": "Hard pass. The metrics do not align.",
+   "score": 30,
+   "secondDate": false
+  }
+ }
+}

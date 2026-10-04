@@ -1,0 +1,46 @@
+{
+ "a": "hormozi",
+ "b": "jayshetty",
+ "turns": [
+  {
+   "who": "hormozi",
+   "text": "Alex needs a partner who optimizes for growth, not just reflection. Jay focuses on purpose and monk-like calm, which sounds like a massive friction point for Alex’s high-intensity scaling culture. Does Jay have any interest in the ruthlessness required to build an eight-figure portfolio, or is Jay purely focused on feelings and aesthetics?"
+  },
+  {
+   "who": "jayshetty",
+   "text": "Jay views success as a vehicle for service, not just a balance sheet. While Jay built massive ventures and raised millions for philanthropy, they prioritize the soul over the grind. If Alex believes growth must be ruthless, Jay would likely see that as a barrier to true connection. Does Alex ever pause to consider the cost of that intensity?"
+  },
+  {
+   "who": "hormozi",
+   "text": "Alex does not pause because stopping kills momentum. If Jay views success as a vehicle for service instead of an operational bottleneck to crush, they will clash instantly. Does Jay actually understand the mechanics of ruthless execution, or is Jay just selling high-margin platitudes?"
+  },
+  {
+   "who": "jayshetty",
+   "text": "Jay brings a structured background in corporate strategy at Accenture alongside scaling global media, so they understand execution deeply. But Jay knows that rushing to crush bottlenecks often crushes the spirit too. How can Alex build a lasting empire when the foundation is built entirely on burnout?"
+  },
+  {
+   "who": "hormozi",
+   "text": "Alex treats long-term horizons as a math problem, not a wellness crisis. If Jay spends meetings worrying about the spirit instead of fast feedback loops, Alex will churn them faster than a poorly optimized ad set. This alliance has zero operational fit, so we are passing."
+  },
+  {
+   "who": "jayshetty",
+   "text": "I agree that your vision of momentum and Jay's practice of presence are fundamentally misaligned. Jay seeks a partnership that blossoms through reflection, whereas Alex demands a partner who functions as a high-speed engine. It is clear that this union would only lead to friction, so we should move on to better matches."
+  }
+ ],
+ "debrief": {
+  "hormozi": {
+   "clicked": "Jay has experience scaling global media and understands corporate strategy.",
+   "worried": "Jay prioritizes soul and reflection over the ruthless execution Alex demands.",
+   "verdict": "Hard pass. Jay is too focused on feelings and will clash with Alex's intensity.",
+   "score": 15,
+   "secondDate": false
+  },
+  "jayshetty": {
+   "clicked": "Both parties acknowledge that operational momentum and mindful presence are entirely opposed forces.",
+   "worried": "Alex treats life as a math problem and would churn Jay faster than an unoptimized ad set.",
+   "verdict": "Hard pass, absolute mismatch in operational values.",
+   "score": 10,
+   "secondDate": false
+  }
+ }
+}
